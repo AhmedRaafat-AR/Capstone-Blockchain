@@ -22,12 +22,14 @@ This command will run all test configured.
 
 Marketplace front page. 
 OpenSea Address: https://testnets.opensea.io/collection/egypt-wuqnbekfdc
-![https://testnets.opensea.io/activity/egypt-wuqnbekfdc](token_sold.png)
 
 10 tokens was minted and listed on OpenSea Marketplace and 5 tokens was sold.
+https://testnets.opensea.io/activity/egypt-wuqnbekfdc
+![egypt-wuqnbekfdc](token_sold.png)
 
 Buyer Address: 0x05D3e1415E04b4984F68d26CB7868B1E884F0167
-![https://rinkeby.etherscan.io/address/0x05D3e1415E04b4984F68d26CB7868B1E884F0167](buyer_tx.png)
+https://rinkeby.etherscan.io/address/0x05D3e1415E04b4984F68d26CB7868B1E884F0167
+![buyer](buyer_tx.png)
 
 ## SolnSquareVerifier Contract Address
 
